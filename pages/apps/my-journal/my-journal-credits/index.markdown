@@ -9,40 +9,13 @@ title: My Journal - Credits
 wordpress_id: 242
 ---
 
-
-
-
 We're extremely grateful for a lot of amazing tools we've using in this app. Here's a list of the main ones. If we forgot someone, please [contact us](https://crazyhorseapps.com/support/) and we'll fix that!
-
-
-
-
-
-
 
 #### Icons
 
-
-
-
-
-
-
 The icons we used were made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) and are licensed by [CC 3.0 BY.](http://creativecommons.org/licenses/by/3.0/)
 
-
-
-
-
-
-
 #### Libraries
-
-
-
-
-
-
 
 [Realm](https://realm.io/)  
 [Snap](https://github.com/SnapKit/SnapKit)[K](https://github.com/SnapKit/SnapKit)[it](https://github.com/SnapKit/SnapKit)  
@@ -56,25 +29,9 @@ The icons we used were made by [Freepik](https://www.freepik.com/) from [www.fla
 [BulletinBoard](https://github.com/alexaubry/BulletinBoard)  
 [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)  
 [ZIPFoundation](https://github.com/weichsel/ZIPFoundation)  
-[YPImagePicker](https://github.com/Yummypets/YPImagePicker)  
-
-
-
-
-
-
-
+[YPImagePicker](https://github.com/Yummypets/YPImagePicker)
 
 [](https://github.com/weichsel/ZIPFoundation)We're also very thankful to these tools that saved us a ton of precious time:
 
-
-
-
-
-
-
 [Cocoapods](https://cocoapods.org/)  
 [Fastlane﻿](https://fastlane.tools/)
-
-
-

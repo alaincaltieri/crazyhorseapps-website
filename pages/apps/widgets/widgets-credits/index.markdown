@@ -9,18 +9,7 @@ title: Widgets++ Credits
 wordpress_id: 1007
 ---
 
-
-
-
 Widgets++ would not have been possible without the help of these tools:
 
-
-
-
-
-
-
-  * [Unsplash](https://unsplash.com/) provides the background images for your widgets
-  * [OpenWeather](https://openweathermap.org/) provides weather data for the weather layer 
-
-
+- [Unsplash](https://unsplash.com/) provides the background images for your widgets
+- [OpenWeather](https://openweathermap.org/) provides weather data for the weather layer

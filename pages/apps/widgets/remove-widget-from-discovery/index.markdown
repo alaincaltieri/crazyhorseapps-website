@@ -9,10 +9,4 @@ title: Remove widget from Discovery
 wordpress_id: 1010
 ---
 
-
-
-
 Hey, [send me an email](mailto:help.chapps@gmail.com), please!
-
-
-
