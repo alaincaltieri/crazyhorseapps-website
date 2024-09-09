@@ -37,11 +37,7 @@ bodyClass: "page-home"
             {% endif %}
             
             <h2 class="service-title">
-            {% if service.redirect %}
-              <a href="{{ service.redirect }}">{{ service.title }}</a>
-            {% else %}
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            {% endif %}
             </h2>
             <p>{{ service.excerpt | markdownify | strip_html | truncate: 150 }}</p>
           </div>

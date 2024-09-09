@@ -5,6 +5,8 @@ description: Indie Apps from CrazyHorseApps
 intro_image: "images/illustrations/app-icons.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
+
+redirect_from: "/apps/cross-promotion/"
 ---
 
 # Indie apps by CrazyHorses
