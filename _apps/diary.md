@@ -5,6 +5,8 @@ weight: 3
 # redirect: "https://upread.app/"
 image: "images/apps/diary.png"
 excerpt: A beautiful diary app with privacy as its core. Lock your diary with a passcode, add photos and more.
+
+redirect_from: /apps/my-journal/
 ---
 
 <blockquote>

@@ -5,4 +5,9 @@ weight: 1
 redirect: "https://habituator.app/"
 image: "images/apps/habituator.png"
 excerpt: Habituator is a clean yet powerful **Habit Tracker** for iOS, watchOS and iPadOS. The perfect blend of functionality and aesthetics.
+
+# FIXME
+#redirect_from: "/apps/habits-builder/"
+#redirect_to: "https://habituator.app"
+
 ---
