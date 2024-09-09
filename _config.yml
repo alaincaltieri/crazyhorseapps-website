@@ -46,7 +46,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "apps"
     values:
       layout: "service"
 
