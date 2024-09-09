@@ -29,6 +29,13 @@ bodyClass: "page-home"
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
+
+            {% if service.image %}
+            <div class="service-image">
+              <img width="90" height="90" alt="{{ service.title }}" class="img-fluid mb-2" src="{{ service.image | relative_url }}" />
+            </div>
+            {% endif %}
+            
             <h2 class="service-title">
             {% if service.redirect %}
               <a href="{{ service.redirect }}">{{ service.title }}</a>
