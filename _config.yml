@@ -45,8 +45,11 @@ collections:
   
 defaults:
   - scope:
-      path: "/"
-      type: "home"
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+
     
 sass:
   style: compressed # possible values: nested expanded compact compressed
