@@ -9,9 +9,10 @@ excerpt: A beautiful diary app with privacy as its core. Lock your diary with a 
 
 <blockquote>
 
-> I am not what happened to me, I am what I choose to become.
->
-> **Carl Gustav Jung**</blockquote>
+I am not what happened to me, I am what I choose to become.
+<br><br>
+<i>Carl Gustav Jung</i>
+</blockquote>
 
 It's really nice to read about ourselves and our lifes sometime in the past. Memories pop up and make us live again the same experiences in a different way.
 
