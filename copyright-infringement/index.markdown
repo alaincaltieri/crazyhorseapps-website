@@ -23,8 +23,9 @@ I make sure to respect the intellectual property rights of others, and I ask oth
 You can get in contact with me for claims of copyright infringement as follows:
 
 **By mail:**  
-A. Caltieri apps di Alain Caltieri  
-Via Pastrengo, 14  
+Alain Caltieri  
+Casella Postale 14
+via Dante Alighieri, 27
 23900, Lecco  
 Italy
 

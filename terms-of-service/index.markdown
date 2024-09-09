@@ -9,7 +9,7 @@ title: Terms of service
 wordpress_id: 734
 ---
 
-The following Terms of Use and End User License Agreement (“EULA”) constitute an agreement between you (“You”) and A. Caltieri Apps di Alain Caltieri, via Pastrengo 14, 23900 Lecco, Italy (“Service Provider”), governing the use of the software applications downloaded through the Apple App Store (the “Licensed Application(s)”). For questions, complaints or claims with respect to the Licensed Application, please contact [help.chapps@gmail.com](mailto:help.chapps@gmail.com).
+The following Terms of Use and End User License Agreement (“EULA”) constitute an agreement between you (“You”) and A. Caltieri Apps di Alain Caltieri (“Service Provider”), governing the use of the software applications downloaded through the Apple App Store (the “Licensed Application(s)”). For questions, complaints or claims with respect to the Licensed Application, please contact [help.chapps@gmail.com](mailto:help.chapps@gmail.com).
 
 You acknowledge and accept that (i) the previsions of this EULA shall not be deemed to set an agreement between You and Apple (or its subsidiaries) in any manner whatsoever and (ii) Apple and its subsidiaries are third party beneficiaries of this EULA, therefore Apple and its subsidiaries shall have the right and are deemed to have accepted the right to enforce this EULA against You as a third party beneficiary thereof.
 
