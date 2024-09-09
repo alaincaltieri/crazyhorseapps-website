@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   CrazyHorseApps makes indie apps you'll love.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 logo:
@@ -39,24 +39,15 @@ home:
   limit_services: 6
 
 collections:
-  services:
+  apps:
     output: true
     sort_by: weight
-  team:
-    output: true
-
+  
 defaults:
   - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
+      path: "/"
+      type: "home"
+    
 sass:
   style: compressed # possible values: nested expanded compact compressed
 

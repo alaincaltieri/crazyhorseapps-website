@@ -1,9 +1,7 @@
 ---
 ---
 
-.sub-footer {
-  display: none;  
-}
+// ORIGINALS ----
 
 // Colors
 $primary: #e5261f;
@@ -120,3 +118,10 @@ body {
     line-height: 1.3;
   }
 }
+
+// CUSTOM -- 
+
+.sub-footer {
+  display: none;  
+}
+
