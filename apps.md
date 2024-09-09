@@ -9,5 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Indie apps by CrazyHorses
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
-
+Our mission is to make beautiful apps that solve real problems for you and make you a little better. You are our focus, so we value your privacy, we are very transparent about the apps pricing and we do our best to earn your love.
