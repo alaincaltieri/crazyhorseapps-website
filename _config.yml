@@ -23,8 +23,8 @@ email: help.chapps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   CrazyHorseApps makes indie apps you'll love.
 
-baseurl: "crazyhorseapps-website/" # the subpath of your site, e.g. /blog
-url: "https://alaincaltieri.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://crazyhorseapps.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 logo:
