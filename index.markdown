@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: CrazyHorseApps
 layout: home
 description: CrazyHorseApps makes indie apps you'll love.
 intro_image: "images/illustrations/apps.svg"
