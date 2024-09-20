@@ -2,7 +2,6 @@
 title: "Diary"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
-# redirect: "https://upread.app/"
 image: "images/apps/diary.png"
 excerpt: A beautiful diary app with privacy as its core. Lock your diary with a passcode, add photos and more.
 

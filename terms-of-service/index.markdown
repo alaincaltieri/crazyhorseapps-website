@@ -7,6 +7,7 @@ link: https://crazyhorseapps.com/terms-of-service/
 slug: terms-of-service
 title: Terms of service
 wordpress_id: 734
+redirect-from: /apps/terms-of-service/
 ---
 
 The following Terms of Use and End User License Agreement (“EULA”) constitute an agreement between you (“You”) and A. Caltieri Apps di Alain Caltieri (“Service Provider”), governing the use of the software applications downloaded through the Apple App Store (the “Licensed Application(s)”). For questions, complaints or claims with respect to the Licensed Application, please contact [help.chapps@gmail.com](mailto:help.chapps@gmail.com).
