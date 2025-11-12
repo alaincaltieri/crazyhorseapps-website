@@ -3,42 +3,26 @@ author: alaincaltieri@gmail.com
 comments: false
 date: 2020-11-09 11:26:12+00:00
 layout: page
-link: https://crazyhorseapps.com/support/diary-faq/
-slug: diary-faq
-title: FAQ - Diary
-wordpress_id: 790
+link: https://crazyhorseapps.com/support/habits-faq/
+slug: habits-faq
+title: FAQ - Habits
+wordpress_id: 991
 ---
 
 Welcome!  
 First of all, thank you for using the app. I've collected here a few frequent questions about the app that may help you. Here we go!
 
-##### ![fa-crown](/images/fa-icons/sync.svg) Can I sync content with all my devices
+##### ![fa-crown](/images/fa-icons/sync.svg) Can I sync habits with all my devices
 
-Yes it is! You need to enable syncing from the app (Settings > Sync & Backup) and you must have a valid iCloud account with enough spare space available. 
+Yes it is! You need to enable syncing from the app (More > Backup, sync and export) and you must have a valid iCloud account with enough spare space available. 
 
 If you are having issues with syncing, here's a list of useful actions you can take:
-1. Make sure you're using the latest app version, get it [from the App Store](https://apple.co/3Jb2zLy)
+1. Make sure you're using the latest app version, get it [from the App Store](https://apple.co/3PqueKO)
 2. Are you logged into iCloud? Check from settings
 3. Do you have enough iCloud free space? Make sure to have some by either removing unused data or purchasing a bigger iCloud plan from Apple.
 4. Ensure syncing is enabled in the app (menu > Backup, sync and export)
 5. Please do the same on every device that needs to sync, making sure all of them are logged to the same iCloud account.
 6. Does the app report a sync error? You can see this insite the app (menu > Backup, sync and export). If so, please let me know the error code!
-
-
-##### ![fa-crown](/images/fa-icons/print.svg) Can I print my journal?
-
-YES! You can export your diary in a printable pdf file, including photos and moods if you like. You can then print it yourself or have a professional printing service build a physical version of your diary.
-
-You can create a printable version from Settings > Print Your Journal.
-
-
-##### ![fa-crown](/images/fa-icons/lock.svg)I lost my password, how do I access the journal?
-
-There are 2 possible solutions:
-
-If you don't care about **losing your data**, just delete the app from your device and download it again from the App Store ([here's the link](https://apps.apple.com/us/app/keynote/id1447344390)). If the payment screen appears, tap "Restore purchases" to restore your subscription or purchase.
-
-If you want to keep the data, please [send me an email](mailto:help.chapps@gmail.com) and I'll help you unlock the app. Please allow me a few days to answer your request.
 
 ## Some common questions to all my apps
 

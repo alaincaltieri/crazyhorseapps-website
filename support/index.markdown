@@ -9,7 +9,7 @@ title: Support
 wordpress_id: 28
 ---
 
-Welcome and thank you for your interest in my apps. You can also check support pages for my [**UpRead**]({{ "support/faq-upread/" | relative_url}}) or [**Diary**]({{ "support/diary-faq/" | relative_url}}) apps.
+Welcome and thank you for your interest in my apps. You can also check support pages for my [**UpRead**]({{ "support/faq-upread/" | relative_url}}), [**Habits**]({{ "support/habits-faq/" | relative_url}}) or [**Diary**]({{ "support/diary-faq/" | relative_url}}) apps.
 
 
 Here are some common questions to all my apps.
