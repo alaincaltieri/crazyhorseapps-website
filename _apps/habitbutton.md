@@ -6,7 +6,9 @@ image: "images/apps/habitbutton.png"
 excerpt: A gesture-first habit tracker with an ultra-minimalistic approach.
 ---
 
-Habit Button is a gesture-first habit tracker with a single purpose: make completion instant.
+A gesture-first habit tracker with an ultra-minimalistic approach.
+
+Habit Button is an habit tracker with a single purpose: make completion instant.
 No dashboards. No streak anxiety. No layers to navigate.
 
 Open the app → swipe → done.
@@ -21,7 +23,8 @@ Fast load, clean layout, no decisions to make.
 
 Pure action. Zero overhead.
 
-[Download from the App Store](https://itunes.apple.com/us/app/id6756312243?mt=8)
+[**Download from the App Store**](https://itunes.apple.com/us/app/id6756312243?mt=8)
+
 
 ![](/assets/media/habit-button/01_HabitList_final.jpg){: .galleryThumb}
 ![](/assets/media/habit-button/02_HabitDetails_final.jpg){: .galleryThumb}
