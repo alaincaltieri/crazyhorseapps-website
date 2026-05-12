@@ -71,3 +71,4 @@ If you'd rather join a mailing list, please [let me know](mailto:help.chapps@gma
 
 If you still need help, you can [send me an email.](mailto:help.chapps@gmail.com)  
 I answer requests personally, most of the times within a week.
+ 
