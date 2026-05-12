@@ -3,17 +3,17 @@ author: alaincaltieri@gmail.com
 comments: false
 date: 2026-05-08 09:27:40+00:00
 layout: page
-link: https://crazyhorseapps.com/apps/gearlog/privacy-policy
-slug: gearlog/privacy-policy
-title: Gearlog Privacy Policy
+link: https://crazyhorseapps.com/apps/bike-wear-tracker/privacy-policy
+slug: bike-wear-tracker/privacy-policy
+title: Bike Wear Tracker Privacy Policy
 ---
 
 
-# Gearlog Privacy Policy
+# Bike Wear Tracker Privacy Policy
 
 **Last updated: May 8, 2026**
 
-This Privacy Policy describes how A. Caltieri Apps collects, uses, processes, and protects users' personal information ("User") through the Gearlog mobile application ("App").
+This Privacy Policy describes how A. Caltieri Apps collects, uses, processes, and protects users' personal information ("User") through the Bike Wear Tracker mobile application ("App").
 
 ### 1. Data Controller
 
@@ -25,7 +25,7 @@ Contact Email: apps.crazy.horse@gmail.com
 
 ### 2. Data Collected via Strava Integration
 
-Gearlog offers the ability to connect your Strava account. By authorizing this connection, the App collects and stores the following data provided by the Strava API:
+Bike Wear Tracker offers the ability to connect your Strava account. By authorizing this connection, the App collects and stores the following data provided by the Strava API:
 
 * **Profile Data:** First name, last name, profile picture URL, basic geographic coordinates (latitude/longitude), body weight, follower count, and following count.
 * **Gear Data:** IDs and identifiers of bicycles saved on Strava to enable synchronization.
@@ -41,7 +41,7 @@ The collected data is used exclusively to provide the core functionalities of th
 
 ### 4. Data Isolation and Sharing
 
-Gearlog adopts a strict data isolation policy to ensure User privacy:
+Bike Wear Tracker adopts a strict data isolation policy to ensure User privacy:
 
 * **Strictly Personal Use:** Data extracted from Strava and the wear metrics calculated by the App are visible solely and exclusively to the account-owning User.
 * **No Social Features:** The App does not have public feeds, leaderboards, or internal sharing features that allow other users to view someone else's information.
@@ -59,8 +59,8 @@ For the technical operation of its infrastructure, the App relies on highly repu
 
 The User has total control over their data:
 
-* **Revoking Strava Access (Deauthorization):** If the User revokes Gearlog's access via Strava settings, the App will receive an automatic notification (Webhook) and will proceed with the **immediate and irreversible** deletion from its servers of all access tokens and previously imported activity data for that User.
-* **Account Deletion:** The User can proactively and permanently delete their Gearlog account at any time using the native feature in the App's settings. This action results in the immediate destruction of all personal and derived data associated with the User.
+* **Revoking Strava Access (Deauthorization):** If the User revokes Bike Wear Tracker's access via Strava settings, the App will receive an automatic notification (Webhook) and will proceed with the **immediate and irreversible** deletion from its servers of all access tokens and previously imported activity data for that User.
+* **Account Deletion:** The User can proactively and permanently delete their Bike Wear Tracker account at any time using the native feature in the App's settings. This action results in the immediate destruction of all personal and derived data associated with the User.
 
 ### 7. Data Security and Localization
 

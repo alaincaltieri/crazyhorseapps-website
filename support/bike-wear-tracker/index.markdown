@@ -34,7 +34,7 @@ You have full control over your connection. To disconnect:
 This action will immediately revoke the app's access to your Strava account and permanently delete all your imported Strava activity data from our servers.
 
 ##### ![fa-crown](/images/fa-icons/lock.svg) Is my Strava data secure and private?
-Absolutely. We employ strict data isolation: your data is visible only to you. There are no social sharing features within the app, and we do not use your activities or derived metrics to train Artificial Intelligence models. For complete details, please read our [Privacy Policy](/link-to-your-privacy-policy).
+Absolutely. We employ strict data isolation: your data is visible only to you. There are no social sharing features within the app, and we do not use your activities or derived metrics to train Artificial Intelligence models. For complete details, please read our [Privacy Policy](/apps/bike-wear-tracker/privacy-policy/).
 
 ---
 
